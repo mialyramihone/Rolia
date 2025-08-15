@@ -33,10 +33,5 @@ Répartit automatiquement vos éléments dans plusieurs groupes équilibrés.
 
 ---
 
-Ouvrez [rolia.vercel.app](
-rolia-mialyramihones-projects.vercel.app) pour la visualiser dans votre navigateur.  
+Ouvrez [rolia.vercel.app]( https://rolia.vercel.app  ) pour la visualiser dans votre navigateur.  
 
-
-
-- [Documentation Create React App](https://facebook.github.io/create-react-app/docs/getting-started)  
-- [Documentation React](https://reactjs.org/)
